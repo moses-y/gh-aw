@@ -1,1 +1,1 @@
-{"comments":{},"create":{"nonce":"c30d98e7-234d-481e-b36a-66ce49052afb","origin":{"principal":"91630630","repository":"moses-y/gh-aw","role":"projector","run_attempt":1,"run_id":"43605132069","workflow":".github/workflows/smoke-work-queue-dispatcher.lock.yml"},"ref":"545707cc88254191128d605e7ed20039b2ca8b45"},"version":1,"work_id":"e460fc98fa8acb94218e2b54fdcc3a0fd39d7f9483e0889d06c1cf61e95c770a"}
+{"comments":{},"version":1,"work_id":"e460fc98fa8acb94218e2b54fdcc3a0fd39d7f9483e0889d06c1cf61e95c770a"}
